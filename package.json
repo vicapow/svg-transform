@@ -1,7 +1,7 @@
 {
   "name": "svg-transform",
   "version": "0.0.3",
-  "description": "Makes working with CS transforms a little nicer.",
+  "description": "Makes working with CSS transforms a little nicer.",
   "repository": {
     "type": "git",
     "url": "https://github.com/vicapow/svg-transform.git"
