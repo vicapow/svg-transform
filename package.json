@@ -1,6 +1,6 @@
 {
   "name": "svg-transform",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes working with CS transforms a little nicer.",
   "main": "index.js",
   "scripts": {
